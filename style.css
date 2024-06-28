@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #fa9dcc;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  #showGifButton {
+    background-color: #ad90fd;
+    padding: center;
+    font-family: fantasy;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #gifContainer {
+    margin-top: 20px;
+  }
+  
